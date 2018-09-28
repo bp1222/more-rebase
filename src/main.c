@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 int existingFunction() {
-	printf("Does things\n");
+	printf("Does more here\n");
+	printf("Does things more here\n");
 }
 
 int main () {
-	//TODO: do printing here
+	printf("Does stuff here\n");
 	return 0;
 }
