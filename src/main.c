@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int existingFunction() {
-	printf("Does more here\n");
 	printf("Does things more here\n");
+	printf("My feature changes here\n");
 }
 
 int main () {
