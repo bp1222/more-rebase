@@ -7,5 +7,6 @@ int existingFunction() {
 
 int main () {
 	printf("Does stuff here\n");
+	printf("Also changing here in second commit\n");
 	return 0;
 }
